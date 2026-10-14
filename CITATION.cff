@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "Please cite this software and its associated journal paper."
+title: "PPO-Based Multi-Zone RL for High-Rise Building Control"
+type: software
+authors:
+  - family-names: "Almadani"
+    given-names: "Murad"
+    orcid: "https://orcid.org/0000-0002-7501-8585"
+repository-code: "https://github.com/Almadani92/PPO-Based-Multi-Zone-RL"
+version: "0.1.0"
+date-released: "2026-10-14"
